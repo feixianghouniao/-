@@ -1,0 +1,1 @@
+xiRedirectUrl:window.location;this.setAttribute('xiRedirectUrl',xir);this.setAttribute('redirectUrl','');if(redirectUrl)this.setAttribute('redirectUrl',redirectUrl)};sas.ued.FlashObject.prototype={setAttribute:function(name,value)
