@@ -1,0 +1,1 @@
+if(typeof sas=="undefined")var sas=new Object();if(typeof sas.ued=="undefined")sas.ued=new Object();if(typeof sas.ued.util=="undefined")sas.ued.util=new Object();if(typeof sas.ued.FlashObjectUtil=="undefined")sas.ued.FlashObjectUtil=new 
