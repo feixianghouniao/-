@@ -1,0 +1,1 @@
+Object();sas.ued.FlashObject=function(swf,id,w,h,ver,c,useExpressInstall,quality,xiRedirectUrl,redirectUrl,detectKey){if(!document.createElement||!(c)this.addParam('bgcolor',c);var q=quality?quality:'high';this.addParam('quality',q);var xir=(xiRedirectUrl)?
