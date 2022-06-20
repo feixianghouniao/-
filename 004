@@ -1,0 +1,1 @@
+{this.attributes[name]=value},getAttribute:function(name){return this.attributes[name]},addParam:function(name,value){this.params[name]=value},getParams:function(){return this.params},addVariable:function(name,value){this.variables[name]=value},getVariable:function(name){return this.variables[name]},getVariables:function(){return this.variables},createParamTag:function(n,v){var 
