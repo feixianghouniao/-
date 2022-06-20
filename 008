@@ -1,0 +1,1 @@
+/>';var params=this.getParams();for(var key in params){flashNode+='<param name="'+key+'" value="'+params[key]+'" />'}var pairs=this.getVariablePairs().join("&");if(pairs.length>0){flashNode+='<param name="flashvars" value="'+pairs+'" />'}flashNode+="</object>"}return flashNode},write:function(elementId){if(this.useExpressInstall){var expressInstallReqVer=new 
